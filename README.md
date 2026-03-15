@@ -1,6 +1,7 @@
-# KittenTTS OpenAI-compatible text-to-speech (TTS) API
+# KittenTTS OpenAI-compatible text-to-speech (TTS) API with Gradio
 
-Text-to-Speech API compatible with OpenAI TTS API format, built with [KittenTTS](https://github.com/KittenML/KittenTTS).
+Text-to-Speech API compatible with OpenAI TTS API format, built with [KittenTTS](https://github.com/KittenML/KittenTTS) and [Gradio](https://gradio.app/   │
+  │   web interface.
 
 ## Quick Start
 
@@ -113,7 +114,3 @@ If not set, defaults to `sk-kitten-default-key`.
 ## Documentation
 
 - Swagger UI: http://localhost:7860/swagger
-
-## License
-
-MIT
