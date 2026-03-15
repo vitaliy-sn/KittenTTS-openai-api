@@ -56,7 +56,7 @@ Generate speech from text.
 
 **Parameters:**
 - `model` (required): Model name. Available: `kitten-tts-mini`, `kitten-tts-micro`, `kitten-tts-nano`
-- `input` (required): Text to generate audio for (max 4096 characters)
+- `input` (required): Text to generate audio for
 - `voice` (required): Voice name. Available: `Bella`, `Jasper`, `Luna`, `Bruno`, `Rosie`, `Hugo`, `Kiki`, `Leo`
 - `response_format` (optional): Audio format. Available: `wav`, `mp3`, `flac`, `opus`, `pcm`. Default: `wav`
 - `speed` (optional): Speed of audio. Range: 0.25-4.0. Default: 1.0
