@@ -17,7 +17,7 @@ docker compose up -d --build
 
 ```bash
 # Install dependencies
-pip install -r requirements-api.txt
+pip install -r requirements.txt
 
 # Set API key (optional)
 export KITTEN_TTS_API_KEY="your-api-key"
