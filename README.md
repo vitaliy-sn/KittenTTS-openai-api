@@ -110,18 +110,6 @@ export KITTEN_TTS_API_KEY="your-secure-key"
 
 If not set, defaults to `sk-kitten-default-key`.
 
-### Models
-
-| Model | Hugging Face |
-|-------|--------------|
-| `kitten-tts-mini` | KittenML/kitten-tts-mini-0.8 |
-| `kitten-tts-micro` | KittenML/kitten-tts-micro-0.8 |
-| `kitten-tts-nano` | KittenML/kitten-tts-nano-0.8 |
-
-### Voices
-
-Bella, Jasper, Luna, Bruno, Rosie, Hugo, Kiki, Leo
-
 ## Documentation
 
 - Swagger UI: http://localhost:7860/swagger
