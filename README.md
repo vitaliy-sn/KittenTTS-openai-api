@@ -1,7 +1,6 @@
 # KittenTTS OpenAI-compatible text-to-speech (TTS) API with Gradio
 
-Text-to-Speech API compatible with OpenAI TTS API format, built with [KittenTTS](https://github.com/KittenML/KittenTTS) and [Gradio](https://gradio.app/   │
-  │   web interface.
+Text-to-Speech API compatible with OpenAI TTS API format, built with [KittenTTS](https://github.com/KittenML/KittenTTS) and [Gradio](https://gradio.app/) web interface.
 
 ## Quick Start
 
