@@ -1,8 +1,18 @@
-# KittenTTS API
+# KittenTTS OpenAI-compatible text-to-speech (TTS) API
 
 Text-to-Speech API compatible with OpenAI TTS API format, built with [KittenTTS](https://github.com/KittenML/KittenTTS).
 
 ## Quick Start
+
+### Docker
+
+Build and run the Docker container in detached mode:
+
+```bash
+docker compose up -d --build
+```
+
+### Manual Installation
 
 ```bash
 # Install dependencies
@@ -16,6 +26,8 @@ python main.py
 ```
 
 Access the Web UI at **http://localhost:7860/**
+
+![Demo](Screenshot_20260219_133313.png)
 
 ## API Endpoints
 
